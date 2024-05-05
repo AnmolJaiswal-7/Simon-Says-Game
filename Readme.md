@@ -28,3 +28,7 @@ Simon Says is a browser-based game built using HTML, CSS, and JavaScript. The ga
 
 # Platform
 This version of Simon Says is optimized for play on laptop or desktop computers. It may not provide an optimal experience on mobile devices.
+
+# Screenshot
+
+![symon says](https://github.com/AnmolJaiswal-7/Simon-Says-Game/assets/167762461/02a45a39-6b4c-4192-8721-d5dabcbc09e8)
